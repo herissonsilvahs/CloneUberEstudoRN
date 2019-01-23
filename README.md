@@ -3,9 +3,9 @@ Just ***learning*** project
 
 ## Run project command
 ```bash
-# react-native run-android
+$ react-native run-android
 ```
 or
 ```bash
-# react-native run-ios
+$ react-native run-ios
 ```
